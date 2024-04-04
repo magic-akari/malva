@@ -17,7 +17,7 @@ serde = { version = "1.0", optional = true }
 tiny_pretty = "0.1"
 
 [dev-dependencies]
-insta = { version = "1.31", features = ["glob"] }
+insta = { version = "1.38", features = ["glob"] }
 toml = "0.7"
 
 [features]
